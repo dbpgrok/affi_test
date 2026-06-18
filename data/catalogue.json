@@ -1,0 +1,22 @@
+{
+  "theme_configuration": {
+    "site_title": "Guides & Recommandations Audio Experts",
+    "site_description": "Sélection d'équipements audio haute performance avec guides d'achat indépendants."
+  },
+  "products": [
+    {
+      "name": "Focusrite Scarlett 2i2",
+      "category": "Interface Audio",
+      "summary": "L'interface audio USB de référence pour le home studio, le podcast et l'enregistrement de voix de qualité professionnelle.",
+      "affiliate_url": "https://example.com/aff-link-focusrite",
+      "badge_color": "#0f766e"
+    },
+    {
+      "name": "Audio-Technica ATH-M50x",
+      "category": "Casque Studio",
+      "summary": "Un casque professionnel fermé plébiscité par les ingénieurs du son pour sa précision de monitoring incomparable.",
+      "affiliate_url": "https://example.com/aff-link-athm50x",
+      "badge_color": "#b45309"
+    }
+  ]
+}
